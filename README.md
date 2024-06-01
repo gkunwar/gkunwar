@@ -1,9 +1,8 @@
 ### Hi there, I'm Ganesh👋
 
-
-
-- Working on [@gurzu](https://github.com/GurzuInc)
-- Learning and Writing code in @ruby
+- Developer at [@gurzu](https://github.com/GurzuInc)
+- Write code in @ruby
+- Maintainer [#BuiltWithRuby](https://builtwithruby.com)
 - Contributor [faker-ruby](https://github.com/faker-ruby/faker) 🎭
 
 <!--
